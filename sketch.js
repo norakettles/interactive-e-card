@@ -1,10 +1,10 @@
 
 let img;
 function preload() {
-  img = loadImage('media/sunflower.png');
-  img2 = loadImage('media/can.png');
-  myFont = loadFont('media/futura medium condensed bt.ttf');
-  mySound = loadSound('media/water.mp3');
+  img = loadImage('sunflower.png');
+  img2 = loadImage('can.png');
+  myFont = loadFont('futura medium condensed bt.ttf');
+  mySound = loadSound('water.mp3');
 }
 
 function setup() {
